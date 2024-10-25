@@ -30,7 +30,7 @@ export default function Projects() {
         <div className="text-center mb-12">
           <h2 className="text-3xl font-bold text-white">Our Projects</h2>
           <p className="text-white mt-4">
-            Discover some of the key projects we've completed for our valued clients.
+            Discover some of the key projects we completed for our valued clients.
           </p>
         </div>
 
