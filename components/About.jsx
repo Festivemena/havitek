@@ -17,14 +17,14 @@ export default function AboutUs() {
           </div>
           {/* Right Section: Content */}
           <div className="lg:w-1/2 lg:pl-12">
-            <h2 className="text-3xl font-bold text-gray-800 mb-4">About Havitech</h2>
-            <p className="text-gray-600 mb-6">
+            <h2 className="text-3xl font-bold text-customCyan mb-4">About Havitech</h2>
+            <p className="text-white mb-6">
               At Havitech, we specialize in providing comprehensive hardware solutions to industrial and commercial clients. Our expertise spans from hardware contracting and installations to custom hardware solutions tailored to meet the unique needs of our customers.
             </p>
-            <p className="text-gray-600 mb-6">
+            <p className="text-white mb-6">
               With over a decade of experience, we pride ourselves on our commitment to quality, innovation, and customer satisfaction. Our mission is to deliver hardware systems that help businesses thrive and grow, supported by our dedicated team of experts.
             </p>
-            <p className="text-gray-600 font-semibold">
+            <p className="text-white font-semibold">
               Let us help you build the future of your business with hardware solutions that work.
             </p>
           </div>

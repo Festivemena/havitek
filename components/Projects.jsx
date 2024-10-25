@@ -28,8 +28,8 @@ export default function Projects() {
     <section className="bg-[#003399] py-16" id="projects">
       <div className="container mx-auto px-4">
         <div className="text-center mb-12">
-          <h2 className="text-3xl font-bold text-gray-800">Our Projects</h2>
-          <p className="text-gray-600 mt-4">
+          <h2 className="text-3xl font-bold text-white">Our Projects</h2>
+          <p className="text-white mt-4">
             Discover some of the key projects we've completed for our valued clients.
           </p>
         </div>
